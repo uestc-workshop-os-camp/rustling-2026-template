@@ -443,9 +443,9 @@
   ],
   "user_name": null,
   "statistics": {
-    "total_exercations": 100,
+    "total_exercations": 110,
     "total_succeeds": 0,
-    "total_failures": 100,
+    "total_failures": 110,
     "total_time": 3
   }
 }
